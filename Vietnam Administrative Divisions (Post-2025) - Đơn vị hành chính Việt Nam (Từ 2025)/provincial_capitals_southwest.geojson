@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "provincial_capitals_southwest",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Ten": "An Giang", "STT": 1 }, "geometry": { "type": "Point", "coordinates": [ 105.080212365000079, 10.014038361000075 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "Ten": "Cà Mau", "STT": 3 }, "geometry": { "type": "Point", "coordinates": [ 105.151829949000046, 9.17712401600005 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "Ten": "TP. Cần Thơ", "STT": 27 }, "geometry": { "type": "Point", "coordinates": [ 105.787866859000076, 10.038143792000028 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "Ten": "Vĩnh Long", "STT": 34 }, "geometry": { "type": "Point", "coordinates": [ 105.94626904100005, 10.251328983000064 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "Ten": "Đồng Tháp", "STT": 8 }, "geometry": { "type": "Point", "coordinates": [ 106.363031336000063, 10.350283939000064 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "Ten": "Tây Ninh", "STT": 24 }, "geometry": { "type": "Point", "coordinates": [ 106.413720203000082, 10.540841466000074 ] } }
+]
+}
