@@ -50,9 +50,15 @@ Phần này cung cấp dữ liệu GIS dựa trên **kế hoạch tái cơ cấu
   * **`Provincial_capitals.geojson`**, **`Provincial_capitals.shp`**:
       * Point data representing the locations of the **provincial capitals** (trụ sở cấp tỉnh) for the 34 provinces/municipalities of Vietnam.
       * Dữ liệu điểm thể hiện vị trí **trụ sở cấp tỉnh** của 34 tỉnh/thành phố trực thuộc trung ương của Việt Nam.
+  * **`Provincial_capitals_southwest.geojson`**, **`Provincial_capitals_southwest.shp`**:
+      * Point data representing the locations of the **provincial capitals** (trụ sở cấp tỉnh) for the 6 provinces/municipalities of Southwest Vietnam.
+      * Dữ liệu điểm thể hiện vị trí **trụ sở cấp tỉnh** của 6 tỉnh/thành phố trực thuộc trung ương của Tây Nam Bộ.
   * **`Commune_headquarters.geojson`**, **`Commune_headquarters.shp`**:
       * Point data representing the locations of the **commune headquarters** (trụ sở cấp xã) for the 3321 communes, wards, and special zones across Vietnam.
       * Dữ liệu điểm thể hiện vị trí **trụ sở cấp xã** của 3321 xã/phường/đặc khu trên khắp Việt Nam.
+  * **`Commune_headquarters_southwest.geojson`**, **`Commune_headquarters_southwest.shp`**:
+      * Point data representing the locations of the **commune headquarters** (trụ sở cấp xã) for the 591 communes, wards, and special zones across Southwest Vietnam.
+      * Dữ liệu điểm thể hiện vị trí **trụ sở cấp xã** của 591 xã/phường/đặc khu trên Tây Nam Bộ.
 
 -----
 
@@ -100,18 +106,31 @@ Nguyễn Duy Liêm. (2025). *Dữ liệu GIS Việt Nam*. [https://github.com/ng
 
 ## Disclaimer / Miễn trừ trách nhiệm
 
-This data is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. While efforts are made to ensure accuracy, the maintainers of this repository do not guarantee the completeness, reliability, or accuracy of the data.
+This data is provided as is, without any guarantees. While we try our best to ensure accuracy, we can't promise the data is always complete, reliable, or perfectly accurate.
 
-The post-2025 data is based on current official plans and public information available at the time of creation and **may be subject to change** as government policies and administrative decisions evolve. Users are advised to verify the data with official sources for critical applications.
+The **post-2025 data is based on current plans and may change**. For critical uses, always verify the information with official sources.
 
-Dữ liệu này được cung cấp "nguyên trạng" mà không có bất kỳ bảo đảm nào, dù rõ ràng hay ngụ ý, bao gồm nhưng không giới hạn ở các bảo đảm về khả năng bán được và sự phù hợp cho một mục đích cụ thể. Mặc dù đã nỗ lực để đảm bảo tính chính xác, những người duy trì kho lưu trữ này không đảm bảo tính đầy đủ, độ tin cậy hoặc tính chính xác của dữ liệu.
+Dữ liệu này được cung cấp nguyên trạng, không có bất kỳ bảo đảm nào. Dù chúng tôi cố gắng hết sức để đảm bảo độ chính xác, chúng tôi không thể cam kết dữ liệu luôn đầy đủ, đáng tin cậy hoặc hoàn toàn chính xác.
 
-Dữ liệu sau năm 2025 được xây dựng dựa trên các kế hoạch chính thức hiện hành và thông tin công khai có sẵn tại thời điểm tạo, và **có thể thay đổi** khi các chính sách của chính phủ và quyết định hành chính phát triển. Người dùng nên xác minh dữ liệu với các nguồn chính thức cho các ứng dụng quan trọng.
+**Dữ liệu sau năm 2025 dựa trên kế hoạch hiện tại và có thể thay đổi**. Đối với các mục đích quan trọng, luôn kiểm tra lại thông tin với các nguồn chính thức.
 
 -----
 
 ## Contributions / Đóng góp
 
-We welcome contributions to improve the accuracy or expand the scope of this dataset. If you find any issues or have suggestions, please open an issue or submit a pull request.
+We welcome your help to improve this dataset. If you find errors or have suggestions, please open an issue or submit a pull request.
 
-Chúng tôi hoan nghênh các đóng góp để cải thiện độ chính xác hoặc mở rộng phạm vi của bộ dữ liệu này. Nếu bạn tìm thấy bất kỳ vấn đề nào hoặc có đề xuất, vui lòng mở một vấn đề (issue) hoặc gửi một yêu cầu kéo (pull request).
+Chúng tôi hoan nghênh sự đóng góp của bạn để cải thiện bộ dữ liệu này. Nếu bạn tìm thấy lỗi hoặc có đề xuất, vui lòng mở một vấn đề (issue) hoặc gửi một yêu cầu kéo (pull request).
+
+
+## Donate / Ủng hộ
+If you find this data useful and would like to support its continued development and maintenance, any contribution is greatly appreciated. Your support helps cover the costs associated with data collection, processing, and hosting.
+
+Nếu bạn thấy dữ liệu này hữu ích và muốn ủng hộ việc phát triển và duy trì liên tục, mọi đóng góp đều được đánh giá cao. Sự ủng hộ của bạn giúp trang trải các chi phí liên quan đến việc thu thập, xử lý và lưu trữ dữ liệu.
+
+* **Momo/ ZaloPay: 0983613551**
+
+* **Bank Transfer (ATM) / Chuyển khoản ngân hàng (ATM)**
+  * Bank Name (Tên ngân hàng): BIDV
+  * Account Number (Số tài khoản): 3140657494
+  * Account Holder (Chủ tài khoản): NGUYEN DUY LIEM
