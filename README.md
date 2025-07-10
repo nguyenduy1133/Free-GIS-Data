@@ -1,11 +1,9 @@
 # Dữ liệu GIS miễn phí
-## 1. VietNam: Việt Nam
+## 1. VietNam_before_2025: Việt Nam trước năm 2025
 
-Administrative: Hành chính
+Provinces_included_Paracel_SpratlyIslands.geojson: Địa phận 63 tỉnh thành và 2 quần đảo Hoàng Sa, Trường Sa của Việt Nam.
 
-- Provinces_included_Paracel_SpratlyIslands.geojson: Địa phận 63 tỉnh thành và 2 quần đảo Hoàng Sa, Trường Sa của Việt Nam.
-
-- Provinces_included_Paracel_SpratlyIslands_combine.geojson: Địa phận 63 tỉnh thành và 2 quần đảo Hoàng Sa, Trường Sa (đã khái quát hóa) của Việt Nam.
+Provinces_included_Paracel_SpratlyIslands_combine.geojson: Địa phận 63 tỉnh thành và 2 quần đảo Hoàng Sa, Trường Sa (đã khái quát hóa) của Việt Nam.
 
 ## 2. ThuDucCity: Thành phố Thủ Đức, thành phố Hồ Chí Minh, Việt Nam
 
