@@ -40,19 +40,19 @@ Dữ liệu GIS chuyên biệt cho **Thành phố Thủ Đức**, một khu vự
 
 ### 3\. Vietnam Administrative Divisions (Post-2025) / Đơn vị hành chính Việt Nam (Từ 2025)
 
-This section provides forward-looking GIS data based on the **planned administrative restructuring of Vietnam from 2025 onwards**, which aims to consolidate the number of provinces and municipalities to 34.
+This section provides GIS data based on the **planned administrative restructuring of Vietnam from 2025 onwards**, which aims to consolidate the number of provinces and municipalities to 34.
 
-Phần này cung cấp dữ liệu GIS mang tính dự kiến dựa trên **kế hoạch tái cơ cấu hành chính của Việt Nam từ năm 2025 trở đi**, nhằm hợp nhất số lượng tỉnh và thành phố trực thuộc trung ương xuống còn 34.
+Phần này cung cấp dữ liệu GIS dựa trên **kế hoạch tái cơ cấu hành chính của Việt Nam từ năm 2025 trở đi**, nhằm hợp nhất số lượng tỉnh và thành phố trực thuộc trung ương xuống còn 34.
 
   * **`Provinces.geojson`**, **`Provinces.shp`**:
-      * Administrative boundaries of the 34 projected provinces and municipalities of Vietnam, including the Paracel (Hoàng Sa) and Spratly (Trường Sa) Archipelagos.
-      * Địa giới hành chính của 34 tỉnh, thành phố trực thuộc trung ương dự kiến của Việt Nam, bao gồm cả Quần đảo Hoàng Sa và Trường Sa.
+      * Administrative boundaries of the 34 provinces and municipalities of Vietnam, including the Paracel (Hoàng Sa) and Spratly (Trường Sa) Archipelagos.
+      * Địa giới hành chính của 34 tỉnh, thành phố trực thuộc trung ương của Việt Nam, bao gồm cả Quần đảo Hoàng Sa và Trường Sa.
   * **`Provincial_capitals.geojson`**, **`Provincial_capitals.shp`**:
-      * Point data representing the locations of the **provincial capitals** (trụ sở cấp tỉnh) for the 34 projected provinces/municipalities of Vietnam.
-      * Dữ liệu điểm thể hiện vị trí **trụ sở cấp tỉnh** của 34 tỉnh/thành phố trực thuộc trung ương dự kiến của Việt Nam.
+      * Point data representing the locations of the **provincial capitals** (trụ sở cấp tỉnh) for the 34 provinces/municipalities of Vietnam.
+      * Dữ liệu điểm thể hiện vị trí **trụ sở cấp tỉnh** của 34 tỉnh/thành phố trực thuộc trung ương của Việt Nam.
   * **`Commune_headquarters.geojson`**, **`Commune_headquarters.shp`**:
-      * Point data representing the locations of the **commune headquarters** (trụ sở cấp xã) for the 3321 projected communes, wards, and townships across Vietnam.
-      * Dữ liệu điểm thể hiện vị trí **trụ sở cấp xã** của 3321 xã/phường/thị trấn dự kiến trên khắp Việt Nam.
+      * Point data representing the locations of the **commune headquarters** (trụ sở cấp xã) for the 3321 communes, wards, and special zones across Vietnam.
+      * Dữ liệu điểm thể hiện vị trí **trụ sở cấp xã** của 3321 xã/phường/đặc khu trên khắp Việt Nam.
 
 -----
 
