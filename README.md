@@ -134,3 +134,16 @@ Nếu bạn thấy dữ liệu này hữu ích và muốn ủng hộ việc phá
   * Bank Name (Tên ngân hàng): BIDV
   * Account Number (Số tài khoản): 3140657494
   * Account Holder (Chủ tài khoản): NGUYEN DUY LIEM
+
+## References / Tài liệu tham khảo
+This dataset has been compiled and cross-referenced using various public sources. We acknowledge and appreciate the valuable contributions from the following organizations and their publicly available data:
+
+Bộ dữ liệu này được biên soạn và đối chiếu từ nhiều nguồn công khai. Chúng tôi xin ghi nhận và đánh giá cao những đóng góp giá trị từ các tổ chức sau đây cùng dữ liệu công khai của họ:
+
+* **Thông Tấn Xã Việt Nam**. (2025). Bản đồ hành chính cấp xã của 34 tỉnh thành. Available at: https://infographics.vn/
+
+Vietnam News Agency. (2025). Commune-level administrative map of 34 provinces and cities. Available at: https://infographics.vn/
+
+* **Cục Đo đạc, Bản đồ và Thông tin địa lý**. (2025). Bản đồ hành chính Việt Nam. Available at: https://vnsdi.mae.gov.vn/bandohanhchinh
+
+Department of Survey, Mapping and Geographic Information. (2025). Administrative Map of Vietnam. Available at: https://vnsdi.mae.gov.vn/bandohanhchinh
