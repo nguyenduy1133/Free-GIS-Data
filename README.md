@@ -1,10 +1,6 @@
-# Vietnam GIS Data
+# Vietnam GIS Data / Dữ liệu GIS Việt Nam
 
 This repository provides a collection of free Geographic Information System (GIS) data for Vietnam, focusing on administrative boundaries and key geographical points. The data is available in various formats, primarily **GeoJSON** and **Shapefile (SHP)**, making it compatible with most GIS software and web mapping applications.
-
------
-
-# Dữ liệu GIS Việt Nam
 
 Kho lưu trữ này cung cấp bộ sưu tập dữ liệu Hệ thống Thông tin Địa lý (GIS) miễn phí cho Việt Nam, tập trung vào ranh giới hành chính và các điểm địa lý quan trọng. Dữ liệu có sẵn ở nhiều định dạng khác nhau, chủ yếu là **GeoJSON** và **Shapefile (SHP)**, giúp tương thích với hầu hết các phần mềm GIS và ứng dụng bản đồ web.
 
@@ -140,10 +136,6 @@ This dataset has been compiled and cross-referenced using various public sources
 
 Bộ dữ liệu này được biên soạn và đối chiếu từ nhiều nguồn công khai. Chúng tôi xin ghi nhận và đánh giá cao những đóng góp giá trị từ các tổ chức sau đây cùng dữ liệu công khai của họ:
 
-* **Thông Tấn Xã Việt Nam**. (2025). Bản đồ hành chính cấp xã của 34 tỉnh thành. Available at: https://infographics.vn/
+* **Thông Tấn Xã Việt Nam**. (2025). Bản đồ hành chính cấp xã của 34 tỉnh thành. Available at: https://infographics.vn/ | **Vietnam News Agency**. (2025). Commune-level administrative map of 34 provinces and cities. Available at: https://infographics.vn/
 
-Vietnam News Agency. (2025). Commune-level administrative map of 34 provinces and cities. Available at: https://infographics.vn/
-
-* **Cục Đo đạc, Bản đồ và Thông tin địa lý**. (2025). Bản đồ hành chính Việt Nam. Available at: https://vnsdi.mae.gov.vn/bandohanhchinh
-
-Department of Survey, Mapping and Geographic Information. (2025). Administrative Map of Vietnam. Available at: https://vnsdi.mae.gov.vn/bandohanhchinh
+* **Cục Đo đạc, Bản đồ và Thông tin địa lý**. (2025). Bản đồ hành chính Việt Nam. Available at: https://vnsdi.mae.gov.vn/bandohanhchinh | **Department of Survey, Mapping and Geographic Information**. (2025). Administrative Map of Vietnam. Available at: https://vnsdi.mae.gov.vn/bandohanhchinh
